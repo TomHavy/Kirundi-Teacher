@@ -28,7 +28,7 @@ The next step was to treat that dataset   of first to create a dataset of Kirund
 ## Training 
 
 ### Results
-![Training loss (3 runs)](images/image.png)
+![Training loss (Epochs: 4; Steps: 2500)](images/image-1.png)
 
 ### Inference
 
