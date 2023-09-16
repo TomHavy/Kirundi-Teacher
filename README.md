@@ -55,5 +55,3 @@ This project is open to contributions, suggestions for improvements, and reports
 
 ---
 
-
-By fine-tuning an open-source Language Model for Kirundi, this project aims to bridge the gap in resources and promote the usage of Kirundi, a language with rich cultural significance.
